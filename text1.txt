@@ -2,3 +2,7 @@ This a text file 1
 
 macOS (Homebrew) Run the following command to update kubectl using Homebrew: brew upgrade kubectl.
 Linux (apt) Update kubectl using apt by executing the following commands: sudo apt-get update sudo apt-get upgrade kubectl.
+
+ou can then clone this repository to your local machine and have all the files and branches locally (I'll explain more about branches soon).
+Git allows you to manage and version your project(s) in a "repository". This repository is stored on a web-based hosting service for version control, like GitHub.
+`
